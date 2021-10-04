@@ -1446,7 +1446,7 @@ U 1 1 6133157B
 P 6350 4150
 F 0 "U38" H 6350 4535 50  0000 C CNN
 F 1 "CherryMX_LTST-A683CEGBW" H 6350 4444 50  0000 C CNN
-F 2 "CherryMX_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated:CherryMX_2.75u_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated" H 6350 4050 50  0001 C CNN
+F 2 "CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated:CherryMX_2.75u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated" H 6350 4050 50  0001 C CNN
 F 3 "" H 6350 4050 50  0001 C CNN
 	1    6350 4150
 	1    0    0    -1  
@@ -1765,7 +1765,7 @@ U 1 1 613316BB
 P 1850 3250
 F 0 "U24" H 1850 3635 50  0000 C CNN
 F 1 "CherryMX_LTST-A683CEGBW" H 1850 3544 50  0000 C CNN
-F 2 "CherryMX_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated:CherryMX_2.00u_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated" H 1850 3150 50  0001 C CNN
+F 2 "CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated:CherryMX_2.00u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated" H 1850 3150 50  0001 C CNN
 F 3 "" H 1850 3150 50  0001 C CNN
 	1    1850 3250
 	1    0    0    -1  
@@ -1842,7 +1842,7 @@ U 1 1 6133175B
 P 7800 4150
 F 0 "U39" H 7800 4535 50  0000 C CNN
 F 1 "CherryMX_LTST-A683CEGBW" H 7800 4444 50  0000 C CNN
-F 2 "CherryMX_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated:CherryMX_2.25u_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated" H 7800 4050 50  0001 C CNN
+F 2 "CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated:CherryMX_2.25u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated" H 7800 4050 50  0001 C CNN
 F 3 "" H 7800 4050 50  0001 C CNN
 	1    7800 4150
 	1    0    0    -1  
